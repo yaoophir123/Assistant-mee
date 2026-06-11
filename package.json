@@ -1,0 +1,6 @@
+{
+  "name": "assistant-mee",
+  "version": "1.0.0",
+  "description": "Chatbot IA de l'agence Mes Études à l'Étranger (MEE) — Abidjan",
+  "engines": { "node": ">=18" }
+}
